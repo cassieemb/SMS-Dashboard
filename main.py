@@ -813,5 +813,5 @@ def bulkSend():
 
 
 if __name__ == "__main__":
-    # assign_webhook()
-    app.run(debug=True)
+    assign_webhook()
+    app.run()
