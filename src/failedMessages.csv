@@ -1,0 +1,10 @@
+Message Sid,Message Status,Error Code,Error Message,DateSent,To,From,Body
+07e76bcb-cae8-4952-b2ba-4d29f7d70503,undelivered,30008,Unknown error,2022-02-05 00:21:24+00:00,134636816791,18338590308, here's a new message test!
+95d18655-5266-47f4-88b4-1e3d5f27cf2d,undelivered,30008,Unknown error,2022-02-05 00:19:33+00:00,134636816791,18338590308, here's a new message test! 
+78b8760f-01b7-44f5-9b18-7c2080f5581c,undelivered,30008,Unknown error,2022-02-05 00:17:29+00:00,134636816791,18338590308, here's a new message test! 
+617a064a-2a86-42f6-b842-e1b754035db4,undelivered,30008,Unknown error,2022-02-05 00:17:15+00:00,134636816791,18338590308,"Hello Name, I'm a message! Reply Stop to Opt Out"
+2cd241e8-232e-4796-9045-2985bc20ee6c,undelivered,30008,Unknown error,2022-02-05 00:15:29+00:00,134636816791,18338590308,"Hello Name, testing number groups  Reply Stop to Opt Out"
+3fa349d4-c0c9-4387-8b43-1761cf3e8b2f,undelivered,30008,Unknown error,2022-02-05 00:12:05+00:00,134636816791,18338590308, I'm a message!
+d8e1f7d2-df17-4f0e-b540-a011556a358d,undelivered,30008,Unknown error,2022-02-04 23:59:04+00:00,134636816791,18338590308, I'm a message! 
+b8416576-aeaf-4b20-a7d0-91d892c97745,undelivered,30003,Unreachable destination handset,2022-02-04 20:46:54+00:00,19727906810,12022358941,Test
+35d6ca61-23aa-4af9-9172-9a91a259cadf,undelivered,30003,Unreachable destination handset,2022-02-02 18:55:23+00:00,19727906810,12022358941,Test
